@@ -89,3 +89,20 @@ http://www.cnblogs.com/dsxniubility/p/4621314.html
 
 #27 仿网易新闻左侧抽屉式交互
 http://blog.csdn.net/totogo2010/article/details/8622400
+
+#28 CALayer十则示例
+http://www.cocoachina.com/ios/20150318/11350.html
+
+#29 AppDelegate UIWindow
+http://www.cocoachina.com/bbs/read.php?tid=209348
+http://blog.csdn.net/tianyitianyi1/article/details/7786838
+
+#30 CAAnimation CALayer
+http://www.cnblogs.com/wengzilin/p/4250957.html
+http://blog.csdn.net/maylorchao/article/details/42652161
+
+#31 iOS一个丝滑的全屏滑动返回手势
+http://www.open-open.com/lib/view/open1433732713739.html
+
+#32 cocoacontrols
+https://www.cocoacontrols.com/
