@@ -106,3 +106,36 @@ http://www.open-open.com/lib/view/open1433732713739.html
 
 #32 cocoacontrols
 https://www.cocoacontrols.com/
+
+#33 深入理解dispatch_queue
+http://www.cocoachina.com/ios/20151117/14225.html
+
+#34 从零开始 Code Review
+http://www.cocoachina.com/ios/20151117/14208.html
+
+#35 ViewController 瘦身的另一种解决方案
+http://www.cocoachina.com/ios/20151116/14010.html
+
+#36 新手向：五分钟搭建App设置页面_纯代码 + 模型思想(OC)
+http://www.cocoachina.com/ios/20151113/14142.html
+
+#37 聊天程序--(UDP通信，bubble代码）
+http://www.cocoachina.com/bbs/read.php?tid=24324
+
+#38 使用大图+脚本，生成各种size的app icon和图片素材
+http://www.cocoachina.com/ios/20151120/14314.html
+
+#39 仿天猫首页刷新效果 导航栏颜色渐变效果
+http://code.cocoachina.com/view/128321
+
+#39 详述iOS国际化
+http://www.cocoachina.com/ios/20151120/14258.html
+
+#40 详细讲述iOS自定义转场
+http://www.cocoachina.com/ios/20151120/14303.html
+
+#41 Grand Central Dispatch 基础教程
+http://www.cocoachina.com/ios/20150609/12072.html
+
+#42 快速搭建一个成熟，强壮的App框架
+http://www.cocoachina.com/ios/20151126/14455.html
